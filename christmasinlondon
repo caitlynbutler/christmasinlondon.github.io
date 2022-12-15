@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.centerbox {
+    text-align: center;
+    margin: auto;
+    width: 60%;
+    border: 3px solid #626262;
+    padding: 10px;
+}
+
+.center {
+    text-align: center;
+    margin: auto;
+}
+            
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+body {
+    background-color: #E6E6FA;
+}
+</style>
+</head>
+
+<body>
+
+<hr>
+<br>
+
+<h1 class="centerbox">Christmas in London</h1>
+
+<br>
+
+<h3 class="center">Visit London for a holiday experience like no other!</h3>
+
+<br>
+
+<img src="londontree.jpeg" style="width:900;">
+
+<br>
+
+<!-- Using "Lorem Ipsum" as filler instead 
+<p>London is a historically rich city with a melting pot of cultures. 
+    During this time of year it is known for its extravagant holiday decorations and displays. 
+    Don't miss an opportunity to experience it for yourself!
+</p>
+-->
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa placerat duis ultricies lacus sed turpis tincidunt. Vitae elementum curabitur vitae nunc sed velit dignissim sodales ut. Auctor eu augue ut lectus arcu bibendum at. Facilisis leo vel fringilla est ullamcorper eget nulla facilisi. Sit amet consectetur adipiscing elit. Ut tortor pretium viverra suspendisse potenti. Senectus et netus et malesuada fames ac turpis egestas integer. Ultrices tincidunt arcu non sodales neque. Quam adipiscing vitae proin sagittis nisl rhoncus mattis.</p>
+
+<p>Tempus quam pellentesque nec nam aliquam sem et. Duis tristique sollicitudin nibh sit amet commodo nulla facilisi. Lectus vestibulum mattis ullamcorper velit sed ullamcorper. Sit amet est placerat in egestas erat imperdiet sed. In ante metus dictum at tempor commodo ullamcorper a. Volutpat lacus laoreet non curabitur. Ac auctor augue mauris augue. Nisl rhoncus mattis rhoncus urna neque viverra. Interdum varius sit amet mattis vulputate enim nulla aliquet porttitor. Elit ut aliquam purus sit amet luctus venenatis. Nibh ipsum consequat nisl vel pretium lectus quam id. Euismod elementum nisi quis eleifend quam adipiscing. Nam at lectus urna duis convallis convallis.</p>
+
+<hr>
+
+<a href="https://www.visitlondon.com/things-to-do/whats-on/christmas">See what London has to offer:</a>
+
+<ol>
+    <li>Christmas lights bus tour</li>
+    <li>The Lion King</li>
+    <li>Christmas Eve tour</li>
+    <li>The Nutcracker</li>
+    <li>Winter Wonderland</li>
+    <li>Elf the Musical</li>
+</ol>
+
+<hr>
+
+<br>
+
+</body>
+</html>
+
+<script>
+</script>
